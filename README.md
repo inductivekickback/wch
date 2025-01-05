@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/862db5da-140f-453a-9997-b68439d549cf" alt="Installed hanger" width="100" align="right" style="margin-right: 15px; margin-bottom: 15px;">
 
-[Wall Control pegboards](https://www.wallcontrol.com/) look nice and I use them in my garage (despite the annoyance of bending the tabs on the hangers to secure them). Although the metal hangers are useful for hanging heavy items and shelves, 3D-printed hangers can be customized and are easier to install and remove. This repository contains [FreeCAD (v1.0)](https://www.freecad.org/) projects along with mesh files that have been printed using PETG filament.<br><br>
+[Wall Control pegboards](https://www.wallcontrol.com/) look nice and I use them in my garage (despite the annoyance of bending the tabs on the hangers to secure them). Although the metal hangers are useful for hanging heavy items and shelves, 3D-printed hangers can be customized and are easier to install and remove. This repository contains [FreeCAD (v1.0)](https://www.freecad.org/) projects along with mesh files that have been tested using PETG filament.<br><br>
 
 ---
 
