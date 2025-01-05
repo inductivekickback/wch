@@ -30,6 +30,6 @@ The vertical hanger is a little more complicated because the holder is printed a
  - The holder can be assembled in two different orientations for use on the left or right side of the board
  - The holder snaps in securely
 
-This is the fully-assembled vertical hanger:
+This is the fully-assembled (clip and holder) vertical hanger:
 
 <p align="center"><img src="https://github.com/user-attachments/assets/be81b0cb-6bac-4786-af63-6f991eb6bbd3" width="128"></p>
