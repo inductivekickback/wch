@@ -18,7 +18,7 @@ Here is an improved hanger that simplifies the base while adding a few features:
 
 <p align="center"><img src="https://github.com/user-attachments/assets/25192761-5642-4418-a473-49ead907dbc4" height="200"></p>
 
-### Xmas light hangers
+### Xmas light holders
 Xmas light holders provide an example of how hangers can be customized.
 
 The horizontal hanger is relatively simple and consists of a single piece (plus the clip):
