@@ -24,7 +24,7 @@ Xmas light holders provide an example of how hangers can be customized.
 The horizontal hanger is relatively simple and consists of a single piece (plus the clip):
 <p align="center"><img src="https://github.com/user-attachments/assets/3ed60e39-e4b1-4c5a-8658-f88b9f947a14" width="128"></p>
 
-The holder is printed as a separate component and then snapped into a hole in the base:
+The vertical hanger is a little more complicated because the holder is printed as a separate component and then snapped into a hole in the base:
 
  - The holder is printed horizontally for simplicity and strength
  - The holder can be assembled in two different orientations for use on the left or right side of the board
