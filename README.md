@@ -1,4 +1,8 @@
-[Wall Control pegboards](https://www.wallcontrol.com/) look nice but bending the tabs on the hangers to secure them is annoying. Although the metal hangers are useful for hanging heavy items and shelves, 3D-printed hangers can be customized and are easier to install and remove.
+<img src="https://github.com/user-attachments/assets/862db5da-140f-453a-9997-b68439d549cf" alt="Installed hanger" width="100" align="right" style="margin-right: 15px; margin-bottom: 15px;">
+
+[Wall Control pegboards](https://www.wallcontrol.com/) look nice but bending the tabs on the hangers to secure them is annoying. Although the metal hangers are useful for hanging heavy items and shelves, 3D-printed hangers can be customized and are easier to install and remove.<br><br><br><br>
+
+---
 
 ### Clone
 Replicating the original hanger shape for 3D printing doesn't work very well. Stability is decent when something is pulling the hanger straight down but the hanger feels very fiddly otherwise. Adding tabs to the hanger would make it much harder to print while providing little improvement in stability.<br><br><br>
